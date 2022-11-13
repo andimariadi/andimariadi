@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @andimariadi
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java
+- 👀 Ionic Framework
+- 👀 Angular Addict
+- 👀 Codeigniter Addict
+- 👀 ExpressJS
+- 👀 Stay Learn Cyber Security
+- ✨ Hi, My Ambition is Data Science
 
 <!---
 andimariadi/andimariadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
