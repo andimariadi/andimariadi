@@ -3,6 +3,10 @@
 - 👀 Angular Addict
 - 👀 Codeigniter Addict
 - 👀 ExpressJS
+- 👀 SQL Server
+- 👀 MySQL
+- 👀 PostgreSQL
+- 👀 SQL Lite
 - 👀 Stay Learn Cyber Security
 - ✨ Hi, My Ambition is Data Science
 
